@@ -1,8 +1,3 @@
-
--- NEON HUB V2 | UI ONLY
--- Roblox Studio > LocalScript
--- Place in StarterPlayer > StarterPlayerScripts
-
 local Players = game:GetService("Players")
 local UIS = game:GetService("UserInputService")
 
